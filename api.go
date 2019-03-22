@@ -1,5 +1,5 @@
 package api
 
 func SayIt() string {
-	return "goodbye world 1"
+	return "hello world 4"
 }
